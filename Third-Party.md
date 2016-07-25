@@ -5,7 +5,7 @@
 **author:** Stan  
 **date:** 2016/05/31 
 
-[Home](index.html "Home")   
+[Home](index.md "Home")   
 
 ### vc++ 2015 ###
 

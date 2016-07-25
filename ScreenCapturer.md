@@ -5,7 +5,7 @@
 **author:** Stan  
 **date:** 2016/4/13 14:59 
 
-[Home](index.html "Home")
+[Home](index.md "Home")
 ### download:   
 x86:  
 

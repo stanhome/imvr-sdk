@@ -5,7 +5,7 @@
 **author:** Xinjie  
 **date:** 2016/7/1 10:58:55 
 
-[Home](index.html "Home")
+[Home](index.md "Home")
 
 ## Download:
 

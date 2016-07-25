@@ -5,7 +5,7 @@
 **author:** xyh  
 **date:** 2016/4/13 14:15 
 
-[Home](index.md "Home")
+[Home](README.md "Home")
 ### download:   
 
 | 版本 | 平台 | 发布日期 | 更新描述 |

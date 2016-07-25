@@ -5,7 +5,7 @@
 **author:** Stan  
 **date:** 2016/4/25 10:10:26 
 
-[Home](index.md "Home")
+[Home](README.md "Home")
 
 The only Shield-Eye feature version that just only for **ChildVR**
 

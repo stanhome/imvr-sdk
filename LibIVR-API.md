@@ -5,7 +5,7 @@
 **author:** Stan  
 **date:** 2016/4/13 10:17:10 
 
-[Home](index.md "Home")
+[Home](README.md "Home")
 
 ## Install Instructions ##
 ### install automatically ###

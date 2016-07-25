@@ -5,7 +5,7 @@
 **author:** Stan  
 **date:** 2016/4/13 14:59 
 
-[Home](index.md "Home")
+[Home](README.md "Home")
 ### download:   
 x86:  
 
